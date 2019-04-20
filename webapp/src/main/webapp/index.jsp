@@ -1,2 +1,2 @@
-<h1> Hello, Devops scholls for learning !!! </h1>
+<h1> Hello, Modified for project2 !!! </h1>
 
